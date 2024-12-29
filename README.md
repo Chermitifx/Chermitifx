@@ -17,8 +17,10 @@ ________________________________________________________________________________
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chermitifx&show_icons=true&theme=radical)
 
-## Most Used Languages
+<--! ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chermitifx&hide=html,css&layout=compact)
+-->
+
 
 
 
