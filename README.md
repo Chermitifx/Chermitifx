@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+________________________________________________________________________________________
 **I am Bechir Chermiti ,  Mern Stack Developer & Forex MQL4/5 Programmer"** .
 ### Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)]([https://bechirchermiti.netlify.app/])
@@ -18,7 +18,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chermitifx&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=html,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chermitifx&hide=html,css&layout=compact)
 
 
 
